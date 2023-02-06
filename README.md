@@ -27,8 +27,8 @@ Please follow the step-wise description below to replicate the results published
 
 ## Repository Structure
 Ready-to-use pre-trained versions of all 4 models used in this paper (including the baseline) are included inside the 'Models' directory:
-- BERT: The base BERT model trained for quantitative reasoning conventionally using cross-entropy loss. Referred to as BERT~Arith~ in the paper.
-- BERT_Regression: The base BERT model trained for quantitative reasoning using a combination of regression loss and cross-entropy loss. Referred to as Skill-LM~(w/o Lewc)~ in the paper.
+- BERT: The base BERT model trained for quantitative reasoning conventionally using cross-entropy loss. Referred to as BERT<sub>Arith</sub> in the paper.
+- BERT_Regression: The base BERT model trained for quantitative reasoning using a combination of regression loss and cross-entropy loss. Referred to as Skill-LM<sub>(w/o Lewc)</sub> in the paper.
 - Skill-LM: Our skill-empowered BERT model trained for quantitative and linguistic reasoning. 
 
 The 'Dataset' directory consists of 2 sub-directories:
