@@ -153,4 +153,4 @@ python ./Fisher/fisher_bert_wnli.py
 
 These scripts will populate the Fisher directory with the respective picklized Fisher matrices. With all these matrices in place, simply run the Plots-Fisher.ipynb to replicate the findings of Figure 2 and its continuations in the Appendix. Similarly, Error Plots.ipynb will replicate Figure 4.
 
-If our research or code aids your work, please cite us. Thanks!
+**If our research or code aids your work, please cite us. Thanks!**
