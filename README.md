@@ -1,4 +1,4 @@
-# Laying Anchors
+# Skill-LM
 This is the repository hosting the pre-trained models, training and evaluation codebase, and datasets for the ACL 2023 submission 'Learning Non-linguistic Skills without Sacrificing Linguistic Proficiency'
 
 > **Note:** As the pre-trained PyTorch models are larger in size, [Git LFS](https://git-lfs.github.com/) was used to push these models to Git. Please make sure you have it installed in your system.
