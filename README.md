@@ -1,5 +1,5 @@
 # Skill-LM
-This is the repository hosting the pre-trained models, training and evaluation codebase, and datasets for the ACL 2023 submission 'Learning Non-linguistic Skills without Sacrificing Linguistic Proficiency'
+This is the repository hosting the pre-trained models, training and evaluation codebase, and datasets for the ACL 2023 main conference paper 'Learning Non-linguistic Skills without Sacrificing Linguistic Proficiency'
 
 > **Note:** As the pre-trained PyTorch models are larger in size, [Git LFS](https://git-lfs.github.com/) was used to push these models to Git. Please make sure you have it installed in your system.
 
@@ -154,3 +154,5 @@ python ./Fisher/fisher_bert_wnli.py
 These scripts will populate the Fisher directory with the respective picklized Fisher matrices. With all these matrices in place, simply run the Plots-Fisher.ipynb to replicate the findings of Figure 2 and its continuations in the Appendix. Similarly, Error Plots.ipynb will replicate Figure 4.
 
 **If our research or code aids your work, please cite us. Thanks!**
+
+Contact: Mandar Sharma (mandarsharma@vt.edu)
